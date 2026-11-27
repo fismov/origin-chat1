@@ -1,0 +1,12 @@
+{
+  "name": "origin-chat",
+  "version": "1.0.0",
+  "description": "Origin Chat — русскоязычный AI-чат (Vercel serverless)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

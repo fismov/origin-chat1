@@ -533,7 +533,7 @@ if (require.main === module) {
   // Локальный запуск: `node server.js` слушает порт и раздаёт статику.
   // На Vercel этот модуль импортируется через api/index.js как serverles-хендлер.
   const server = http.createServer(handler);
-  const listenHost = process.env.LISTEN_HOST || "127.0.0.1";
+  const listenHost = process.env.LISTEN_HOST || "0.0.0.0";
   server.listen(PORT, listenHost, () => {
     console.log("Origin Chat: http://" + listenHost + ":" + PORT);
   });

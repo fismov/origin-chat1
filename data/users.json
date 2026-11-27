@@ -1,0 +1,131 @@
+{
+  "users": [
+    {
+      "email": "test@origin.chat",
+      "name": "test",
+      "salt": "3173d1993a049f7de31791b3d7d15d7a",
+      "hash": "176771a21fa9b41bc3a67d69319d83e81cfd7579775003edd007fe5860ea6eff",
+      "plan": "plus",
+      "joined": "2026-11-27",
+      "usage": {
+        "month": "2026-11",
+        "tokens": 2699
+      }
+    },
+    {
+      "email": "test1795746283437@local.ru",
+      "name": "Тест",
+      "salt": "2eab8206188c3a466cf8d1c46ad2a0c5",
+      "hash": "63e883dfba36bad343e21dc82bc368a4bffa492b47cc115fc341d7d1154d28b5",
+      "plan": "start",
+      "joined": "2026-11-27",
+      "usage": {
+        "month": "2026-11",
+        "tokens": 0
+      }
+    },
+    {
+      "email": "dasdasdas@gmail.com",
+      "name": "dasdasdas",
+      "salt": "c4a60176866f5347c7cb0fa25751c5fd",
+      "hash": "286e2ff8e501092401bc4e4cbdcf50bdc76da43573555d2b7907b90e303186d0",
+      "plan": "start",
+      "joined": "2026-11-27",
+      "usage": {
+        "month": "2026-11",
+        "tokens": 1154
+      }
+    },
+    {
+      "email": "demo1795746439759@local.ru",
+      "name": "Ярик",
+      "salt": "89c169986464a33dc8064cc4e8009183",
+      "hash": "3129477bfc3357fa71babb12ca2e2043c9c8cb388ec6a3a693386d0959861347",
+      "plan": "start",
+      "joined": "2026-11-27",
+      "usage": {
+        "month": "2026-11",
+        "tokens": 493,
+        "day": "2026-11-27",
+        "dayTokens": 504,
+        "week": "2026-11-23",
+        "weekTokens": 493
+      }
+    },
+    {
+      "email": "guest@origin.chat",
+      "name": "Гость",
+      "salt": "8647359b708d2d4b118d1c6c39c0a396",
+      "hash": "0c42cefa96b34485998cdefb79a5616b4596b180c4d78cb0d2b8c55a0944da28",
+      "plan": "start",
+      "joined": "2026-11-27",
+      "usage": {
+        "day": "2026-11-27",
+        "dayTokens": 1006
+      }
+    },
+    {
+      "email": "tg@origin.chat",
+      "name": "Telegram User",
+      "salt": "e50488c95550367dae34204f74aca9a7",
+      "hash": "286f76281068fe2a8acfee22434bbb8e302c7ba0cf59234e1cd13e1fef5d5760",
+      "plan": "start",
+      "joined": "2026-11-27",
+      "usage": {
+        "day": "2026-11-27",
+        "dayTokens": 328
+      }
+    },
+    {
+      "email": "admin@origin.chat",
+      "name": "Admin",
+      "role": "admin",
+      "salt": "b7619a732b5fd04d873f70d76353cddc",
+      "hash": "e33bc2e40348b450dcd4f1ec714d844b62f874028f18887b476df8375896c7a6",
+      "plan": "pro",
+      "joined": "2026-11-27",
+      "usage": {
+        "day": "2026-11-27",
+        "dayTokens": 0
+      },
+      "chats": []
+    }
+  ],
+  "sessions": {
+    "a620ed0dc256b1408ec89cf3516ddb804d6ef3bf483bbd6f": "test@origin.chat",
+    "dda0df70321acfba149c3ac5771883311749070ef51e5c57": "test1795746283437@local.ru",
+    "d4c8540e8569cbdce248a3c5e8d0ec243b4bc62f2cc17e21": "dasdasdas@gmail.com",
+    "92dd2e44ddb9893b93542fc3d4b586e21394abd6fbcad213": "demo1795746439759@local.ru",
+    "72adc9261ae13677caa9b1a6c05b6498efa46c5ec0374271": "dasdasdas@gmail.com",
+    "5290446947fea26bcc2a6aa21be55acfeec20526473cbdb0": "dasdasdas@gmail.com",
+    "904e652c337be0879c17086bc856c93073c2bab1710e8296": "dasdasdas@gmail.com",
+    "cc94d4f05665ba4108e7be9365f50b67173f6654a8d5673e": "dasdasdas@gmail.com",
+    "211f11925c83a7bf4ebaa39c1fd97b07efdd93e2c4fb2547": "dasdasdas@gmail.com",
+    "ad31bf4ce315efa464c5a53e65aad5deb6e964d3ce4478ce": "dasdasdas@gmail.com",
+    "9d7d82f21cdce05c6ad8a9cedea6e90512ffc5f5d308ad33": "dasdasdas@gmail.com",
+    "922eb8ff8c9e32fa898ef2b801ddbaddc586ddee1c31fa40": "dasdasdas@gmail.com",
+    "d002ae570b15eef0e075fa2db864e34e5f0e35abc52b2864": "demo1795746439759@local.ru",
+    "be02f2acf556a65901695b47158bdaefd8ce2a2fc163c579": "dasdasdas@gmail.com",
+    "96909323ce1317488fc77e0fff94590c507d9fd3da8a4465": "dasdasdas@gmail.com",
+    "bac85526cc8426ca0b36962933b70df9193d924e960ec1c5": "dasdasdas@gmail.com",
+    "14d33b459647000b85e88c4a5978cdf6eca61c358758e166": "dasdasdas@gmail.com",
+    "b4d8a4c5e99d6f53024b89bc0bb5789a59efd5881b8ae12f": "dasdasdas@gmail.com",
+    "17bd57dd8237417c60320c2fbf80546737e64bf041e9be04": "guest@origin.chat",
+    "de42b51790799040595ad1be9fb999e9a135ff1c47058989": "tg@origin.chat",
+    "413a63dfe98758006695876fcf91dac3fbf9d78e312ec753": "tg@origin.chat",
+    "47447bcdb4eab3b69b30f3a34db1ef1e5175ec769183ea30": "guest@origin.chat",
+    "a54ebb64394f28d53b211b412353afa3ad29579a522081b6": "guest@origin.chat",
+    "609832fdde944eff1ddfa59cfcd02b02474366d53c38b456": "guest@origin.chat",
+    "96be7dc63a7cd26712cc7fea74b6ceed0ddaccf90851c964": "guest@origin.chat",
+    "e08e135b47699d1ec9756e07c017f82fc42dc9cda939b41c": "guest@origin.chat",
+    "d706173d137f7e95eac4262599151894ebf6ce9b86a077a9": "tg@origin.chat",
+    "9567d4beca4109181311be2d74ae540c7d1bd0c0eef58d38": "guest@origin.chat",
+    "3008059823d5853ddd3c7d867e78f79d9afc539e735061a4": "guest@origin.chat",
+    "926f89504ca375f23aecc64b1e978fb71b2ec14c358ca588": "guest@origin.chat",
+    "6d1eeaa63c1e1896a87deadd676e1a493b1791ae7f271f98": "guest@origin.chat",
+    "281263f6d645fc74df8c63cb9a4ce401a145a6455b78b851": "guest@origin.chat",
+    "f70b8c3a8f72d3e6e5a3277a7a29784c3721b57a46d615ac": "guest@origin.chat",
+    "3ca835ddab6a7497932c402b45f05dab82da952db628ae51": "tg@origin.chat",
+    "d4cc47b82f2f8f46238e363289dd51095a9452fea95654a1": "tg@origin.chat"
+  }
+}
